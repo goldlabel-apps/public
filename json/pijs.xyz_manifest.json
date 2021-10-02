@@ -1,0 +1,16 @@
+{
+  "short_name": "@GreyBeard",
+  "name": "@GreyBeard",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "sizes": "512x512",
+      "src": "/logo192.png",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

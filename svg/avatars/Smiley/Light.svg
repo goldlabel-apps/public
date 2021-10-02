@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>512Grid</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="512Grid">
+            <rect fill-opacity="0" x="0" y="0" width="512" height="512"></rect>
+            <g transform="translate(35.000000, 39.000000)" fill-rule="nonzero">
+                <path d="M0.154426477,207.940648 C4.77065318,88.7302714 107.309816,-4.29183725 229.296062,0.152872379 C351.282308,4.60718181 446.455153,104.848344 441.838926,224.05872 C437.320917,343.269096 334.781753,436.300804 212.795507,431.846495 C90.8092615,427.392185 -4.36358263,327.151024 0.154426477,207.940648" id="head" fill="#EDF6F5"></path>
+                <path d="M384,285.118463 C280.179626,314.205614 148,248 148,248 C238.86736,441.94948 384,285.118463 384,285.118463" fill="#126970"></path>
+            </g>
+        </g>
+    </g>
+</svg>

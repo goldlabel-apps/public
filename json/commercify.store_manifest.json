@@ -1,0 +1,16 @@
+{
+  "short_name": "Commercify",
+  "name": "Commercify",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0069A0",
+  "background_color": "#003550",
+  "icons": [
+    {
+      "sizes": "1024x1024",
+      "src": "/logo1024.png",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

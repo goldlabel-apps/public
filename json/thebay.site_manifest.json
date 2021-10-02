@@ -1,0 +1,16 @@
+{
+  "short_name": "R H P S",
+  "name": "R H P S",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4D4F53",
+  "background_color": "#4D4F53",
+  "icons": [
+    {
+      "sizes": "1024x1024",
+      "src": "/RHPSIcon.png",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

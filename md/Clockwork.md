@@ -1,4 +1,4 @@
-tags; react, hooks, GitHub, repo, JavaScript, Isomorphic
+tags; react, hooks, GitHub, repo, JavaScript, isomorphic
 
 ## Clockwork
 
@@ -14,3 +14,5 @@ That is what Clockwork Hook does. It's simply a component that you drop into you
 
 
 ```
+
+digitalocean

@@ -1,4 +1,4 @@
-![by listingslab](https://listingslab.com/public/png/byListingslab.png)
+![by listingslab](https://listingslab.com/public/png/docs/byListingslabPublic.png)
 
 ## Public
 

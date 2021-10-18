@@ -1,7 +1,6 @@
 ![by listingslab](https://listingslab.com/public/png/byListingslab.png)
 
-## iGlossary
-
+## Public Glossary
 
 > words in square brackets need to be defined properly in the glossary
 

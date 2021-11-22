@@ -1,0 +1,21 @@
+{
+  "short_name": "QA",
+  "name": "Listingslab QA",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#333",
+  "background_color": "#333",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
